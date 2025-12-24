@@ -1,3 +1,7 @@
+I have created a React card component using Vite that displays a circular profile image along with a heading and a short description.
+
+This project demonstrates efficient component-based UI development using React, JSX, and the Vite build tool.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
